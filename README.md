@@ -18,8 +18,8 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/vinicode7">
-    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=vinicode7&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicode7&layout=compact&langs_count=7&theme=one_dark_pro"/>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=Vinicode7&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicode7&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
     
